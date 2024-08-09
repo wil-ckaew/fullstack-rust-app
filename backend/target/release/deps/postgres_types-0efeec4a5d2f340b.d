@@ -1,0 +1,11 @@
+/home/kimel/rust/fullstack-rust-app/backend/target/release/deps/libpostgres_types-0efeec4a5d2f340b.rmeta: /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs
+
+/home/kimel/rust/fullstack-rust-app/backend/target/release/deps/libpostgres_types-0efeec4a5d2f340b.rlib: /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs
+
+/home/kimel/rust/fullstack-rust-app/backend/target/release/deps/postgres_types-0efeec4a5d2f340b.d: /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs /home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs
+
+/home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs:
+/home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs:
+/home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs:
+/home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs:
+/home/kimel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs:

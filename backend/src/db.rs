@@ -19,7 +19,7 @@ pub fn init_database() -> Result<(), PostgresError> {
             id SERIAL PRIMARY KEY,
             user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
             filename VARCHAR NOT NULL,
-            data BYTEA NOT NULL
+            data_ent VARCHAR NOT NULL
         );
         "
     )?;
